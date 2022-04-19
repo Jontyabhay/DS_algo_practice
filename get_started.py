@@ -49,4 +49,4 @@ def pattern4():
     for i in range(a):
         for j in range(a-i-1):
             print("*", end=' ')
-        print(end='\n')
+        print(end='\n')     
